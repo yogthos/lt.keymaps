@@ -59,10 +59,10 @@ wget \
 brew tap caskroom/cask
 
 echo "Installing Apps"
-sudo brew cask install \
+sudo brew install \
 google-chrome \
 firefox \
-gitkraken \
+datafusion \
 obs \
 steam \
 macdown \
